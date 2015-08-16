@@ -1,5 +1,5 @@
 //#include "mainwindow.h"
-
+//asdasdads
 #include"easygame.h"
 #include <QApplication>
 #include <QTextCodec>
